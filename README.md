@@ -30,6 +30,14 @@ Designed a relational database for a fictional library, separating membership po
 
 [Project overview](projects/library-database/README.md)
 
+### AscendQuest — gamified wellness app · individual backend project
+
+Built an Express and MySQL backend for a full-stack wellness app, with JWT authentication, bcrypt password hashing, protected APIs, request validation and ownership checks. The app tracks wellness challenges, quests, streaks, XP, rewards, badges and inventory, with a browser interface built in HTML, CSS and vanilla JavaScript.
+
+**Tools:** Node.js, Express.js, MySQL, JWT, bcryptjs, JavaScript
+
+[Project overview](projects/ascendquest-backend/README.md)
+
 ## About this portfolio
 
 The MLOps and DQN projects were completed as team coursework, and the repository links and descriptions make that clear. Data and course handouts are not included here. Please use each project's README for scope and limitations.
